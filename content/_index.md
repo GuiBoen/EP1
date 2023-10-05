@@ -1,8 +1,2 @@
-Este é o meu portfólio
-
-Neste site, você encontrará
-
-- Minha biografia
-- Meus projetos
-- Meu currículo
-- caralhoooooooooo
+Seja muito bem vindo ao site Diario Palmeirense
+aqui você ira acompanhar todas as noticias sobre o Alviverde

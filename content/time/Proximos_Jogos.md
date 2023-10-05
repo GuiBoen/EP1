@@ -1,0 +1,26 @@
+---
+title: "Calendário"
+date:
+draft: false
+---
+Outubro
+
+Dom, 01, PALMEIRAS X BRAGANTINO
+
+
+Qui, 05, PALMEIRAS X BOCA JUNIORS
+
+
+Dom, 08, PALMEIRAS X SANTOS
+
+
+Qui, 19, PALMEIRAS X ATLETICO-MG
+
+
+Dom, 22, PALMEIRAS X CORITIBA
+
+
+Qua, 25, PALMEIRAS X SÃO PAULO
+
+
+Sab, 28, PALMEIRAS X BAHIA
